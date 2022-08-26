@@ -1,0 +1,3 @@
+[submodule "submodulefolder"]
+	path = submodulefolder
+	url = https://github.com/Karunagaraprabhu/gitsubmodule1.git
